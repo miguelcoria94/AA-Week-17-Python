@@ -28,3 +28,13 @@ print(int(17.0))
 
 print(str(17.0) + ' and ' + str(17))
 print("------")
+
+#Arithmetic operators
+
+#All the same as JS but two additional ones
+
+#** (exponent)
+#// (integer division)
+
+#Exponentation
+
