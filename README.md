@@ -8,12 +8,20 @@ This is the introduction to Python. When you learned JavaScript, you may have be
 
 <ul>
  <li>The None value</li?
- </un?
-
-The None value
-Boolean values
-Number values
-String values
+ <li>
+Boolean values</li>
+ <li>
+Number values</li>
+ <li>String values</li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ <li></li>
+ </ul>
 Variables
 Comparison operators
 Assignment operators
