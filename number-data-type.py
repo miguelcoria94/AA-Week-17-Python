@@ -7,3 +7,13 @@
 print(3)
 print(int(19))
 print(int())
+
+#Floating point number - decimals nums are called floating point numbers
+#floats are created using numbers with a deciaml point with the float() constructor.
+
+print(2.24)
+print(2.)
+print(float())
+print(27e-5)
+
+#Complex 
