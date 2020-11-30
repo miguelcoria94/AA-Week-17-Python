@@ -13,26 +13,19 @@ Boolean values</li>
  <li>
 Number values</li>
  <li>String values</li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
- <li></li>
+ <li>Variables</li>
+ <li>Comparison operators</li>
+ <li>Assignment operators</li>
+ <li>Flow-control statements: if, while, for</li>
+ <li>Functions</li>
+ <li>Classes, methods, and properties</li>
+ <li>Lists</li>
+ <li>Dictionaries</li>
+ <li>Sets</li>
+ <li>
+Tuples</li>
+ <li>Ranges</li>
+ <li>List comprehensions</li>
+ <li>Built-in functions: filter, map, sorted, enumerate, zip, len, max, min, sum, any, all, dir</li>
+ <li>Importing packages and modules</li>
  </ul>
-Variables
-Comparison operators
-Assignment operators
-Flow-control statements: if, while, for
-Functions
-Classes, methods, and properties
-Lists
-Dictionaries
-Sets
-Tuples
-Ranges
-List comprehensions
-Built-in functions: filter, map, sorted, enumerate, zip, len, max, min, sum, any, all, dir
-Importing packages and modules
