@@ -6,6 +6,10 @@ Learning Objectives For The Week
 
 This is the introduction to Python. When you learned JavaScript, you may have been starting out for the first time learning a language. This time, though, you're learning a second language, which means you have some of the understanding of concepts without necessarily knowing the syntax. As such, this is a busy week with a lot to learn. You should be able to explain and use any of the following in Python
 
+<ul>
+ <li>The None value</li?
+ </un?
+
 The None value
 Boolean values
 Number values
