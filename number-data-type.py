@@ -38,3 +38,15 @@ print("------")
 
 #Exponentation
 
+print(2**3)
+print(5.5**15)
+print(10**30)
+print(10.0**30)
+
+
+## // - operator provides a quick way to divide numbers and round down.
+
+print(47.0 // 8.0)
+print(47.0 % 8.0)
+
+## all the JS shorthands but no -- and ++
