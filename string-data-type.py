@@ -54,3 +54,7 @@ serve to organize and measure the best of our energies and skills, because that
 challenge is one that we are willing to accept, one we are unwilling to
 postpone, and one which we intend to win, and the others, too.
 '''.count('the '))                # => 4
+
+#concatenation used a + just like js but also has a * to multiple a string
+
+print("$1" + ",000"*3)     # => $1,000,000,000

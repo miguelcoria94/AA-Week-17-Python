@@ -1,4 +1,6 @@
 {
     "python.formatting.provider": "autopep8",
-    "python.pythonPath": "/home/miguelcoria94/.pyenv/versions/3.8.3/bin/python"
+    "python.pythonPath": "/home/miguelcoria94/.pyenv/versions/3.8.3/bin/python",
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true
 }
