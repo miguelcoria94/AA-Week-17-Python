@@ -36,3 +36,10 @@ print("Spaghetti"[:-1])    # => Spaghett
 #range does not through errors if it is out of bounds
 
 # USING STRING FUNCTIONS
+
+#index function lets use find the index of a letter in a word
+
+print("Spaghetti".index("p"))
+
+#if not found an error will be thrown
+
