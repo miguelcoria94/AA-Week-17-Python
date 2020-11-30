@@ -43,3 +43,14 @@ print("Spaghetti".index("p"))
 
 #if not found an error will be thrown
 
+#count function how many times a substring appears in a string.
+
+print("Spaghetti".count("h"))    # => 1
+print("Spaghetti".count("t"))    # => 2
+print("Spaghetti".count("s"))    # => 0
+print('''We choose to go to the moon in this decade and do the other things,
+not because they are easy, but because they are hard, because that goal will
+serve to organize and measure the best of our energies and skills, because that
+challenge is one that we are willing to accept, one we are unwilling to
+postpone, and one which we intend to win, and the others, too.
+'''.count('the '))                # => 4
