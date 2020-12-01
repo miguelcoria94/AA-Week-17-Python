@@ -6,4 +6,12 @@ print(type(2 / 4))
 # decimal numbers are stored differently (it need more memory)
 print('---')
 
-print(20+1.1)
+print(20 + 1.1)
+
+# the double ** and //
+
+print("---")
+print(2 ** 3)
+print(5 // 4)
+print(5 % 4)
+
