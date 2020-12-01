@@ -7,3 +7,8 @@ print(20 - 3 * 4)
 # /
 # +
 # -
+
+print((5 + 4) * 10 / 2)
+
+# remember the float answer 45.0
+
