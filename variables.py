@@ -16,3 +16,5 @@ my_name = 'miguel'
 PI = 3.14
 
 print(PI)
+
+a,b,c = 1,2,3
