@@ -12,3 +12,7 @@ first_name = 'Miguel'
 last_name = "Coria"
 
 print(type(str(100)))
+
+print('----')
+
+'me me me'
