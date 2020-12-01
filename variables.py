@@ -11,4 +11,8 @@ my_name = 'miguel'
 # variables are case sensitive
 
 
+#constants should be capitilize (convention)
 
+PI = 3.14
+
+print(PI)
