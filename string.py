@@ -7,3 +7,8 @@ is a
 long'''
 
 print(long_string)
+
+first_name = 'Miguel'
+last_name = "Coria"
+
+print(type(str(100)))
