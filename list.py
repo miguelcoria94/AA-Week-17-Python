@@ -23,7 +23,7 @@ print('NUMBERS', numbers)
 
 
 # 6. Print the largest number in the numbers list
-
+#print(max(numbers))
 
 # 7. Sort the numbers
 
