@@ -11,6 +11,7 @@ print('NUMBERS', numbers)
 #print(colors[0])
 
 # 3. Print the second and third colors
+#print(colors[1:3])
 
 
 # 4. Print the last two colors
