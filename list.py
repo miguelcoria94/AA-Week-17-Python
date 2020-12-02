@@ -15,6 +15,7 @@ print('NUMBERS', numbers)
 
 
 # 4. Print the last two colors
+#print(colors[-2:])
 
 
 # 5. Print the smallest number in the numbers list
