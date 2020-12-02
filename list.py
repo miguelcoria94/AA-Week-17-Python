@@ -26,6 +26,7 @@ print('NUMBERS', numbers)
 #print(max(numbers))
 
 # 7. Sort the numbers
+#print(sorted(numbers))
 
 
 # UNCOMMENT WHEN YOU WORK ON #7
