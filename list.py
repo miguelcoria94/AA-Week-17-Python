@@ -19,6 +19,7 @@ print('NUMBERS', numbers)
 
 
 # 5. Print the smallest number in the numbers list
+#print(min(numbers))
 
 
 # 6. Print the largest number in the numbers list
