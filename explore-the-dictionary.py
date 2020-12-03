@@ -10,7 +10,7 @@ d1 = dict(module="Python 3", subject="Dictionaries")
 # literal that has key/value pairs
 #   key: "module", value: "Python 3"
 #   key: "subject", value: "Dictionaries"
-d2 =  
+d2 =  {'module': "Python 3", 'subject': "Dictionaries"}
 
 
 # Unlike JavaScript, the keys in Python dictionaries can be any kind of
