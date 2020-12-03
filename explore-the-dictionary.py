@@ -18,11 +18,15 @@ d2 =  {'module': "Python 3", 'subject': "Dictionaries"}
 # one with the value "one". Then, add another key to d1 that is a string
 # that contains the character 1 and give it the value of "one". Then,
 # print the dictionary to see what's in there.
-
+d1[1] = "one"
+d1["1"] = "one"
+print(d1)
 
 # Convert d1 to a list using the list() method. Then, print it. What gets
 # put into the list?
-d1_as_list =  # Your conversion here
+d1_as_list =  list(d1)
+
+print(d1_as_list)
 
 
 # Now, check that the following keys are in d1
@@ -33,3 +37,5 @@ d1_as_list =  # Your conversion here
 #  "1"         should be True
 #  "one"       should be False
 #  True        should be False
+print(f"'module' in d1? {'module' in d1}")
+print(f"'subject' in d1? {'subjefd' in d1}")
