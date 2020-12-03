@@ -22,6 +22,8 @@ print(sum(evens) / len(evens))
 
 # Step 5A: Write a function 'minmaxmean' that accepts an iterable and
 #         returns the minimum value, the maximum value and the average (mean)
+def minmaxmean(thing):
+    return min(thing)
 
 
 # Step 5B: Use print to confirm you function is working on evens and odds
