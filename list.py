@@ -30,10 +30,11 @@ print('NUMBERS', numbers)
 
 
 # UNCOMMENT WHEN YOU WORK ON #7
-# print ('SORTED NUMBERS', numbers)
+#print ('SORTED NUMBERS', numbers)
 
 # 8. Sort the colors alphabetically ignoring case
+print(colors.sort())
 
 
 # UNCOMMENT WHEN YOU WORK ON #8
-# print ('SORTED COLORS', colors)
+print ('SORTED COLORS', colors)
