@@ -3,12 +3,15 @@ odds = 1, 3, 5, 7, 9
 evens = 2, 4, 6, 8
 
 # Step 1: Print out the result of adding evens to odds
+#print( odds + evens)
 
 
 # Step 2: Print out the result of multiplying odds by three
+print( odds * 3)
 
 
 # Step 3A: Use print to find out if odds is less than evens
+print()
 
 
 # Step 3B: Print out your explanation of why 3A has that result
